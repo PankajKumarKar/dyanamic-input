@@ -22,12 +22,12 @@ cd react-dynamic-input-field
 
 3. Install dependencies:
 
-npm install
+    npm install
 
 
 4.Start the development server:
 
-npm run div
+   npm run dev
 
 Open your browser and navigate to http://localhost:5173 to see the app.
 
